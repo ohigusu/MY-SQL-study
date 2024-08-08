@@ -10,13 +10,6 @@ I'm a Master's student at **Ewha Womans University**, majoring in **Statistics**
 
 ---
 
-## 📚 **What I'm Currently Studying:**
-- **Graphical Models**
-- **Deep Learning**
-- **MySQL**
-
----
-
 ## 🌐 **Languages I Can Speak:**
 - Korean (한국어)
 - English
