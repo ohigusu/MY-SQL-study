@@ -1,7 +1,8 @@
 # 👋 Hello, I'm KIM SUYEON!
 
 🎓 **Current Status:**  
-I'm a Master's student aspiring to become a **Data Scientist**. My primary focus is on data analysis, machine learning, and statistical modeling.
+I'm a Master's student at **Ewha Womans University**, majoring in **Statistics**. I aspire to become a **Data Scientist** with a focus on data analysis, machine learning, and statistical modeling.
+
 
 💻 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,7 +20,7 @@ I'm a Master's student aspiring to become a **Data Scientist**. My primary focus
 - 🤝 Looking to collaborate on open-source data science projects.
 
 ## 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](mailto:suyk52@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 ---
