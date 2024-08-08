@@ -20,8 +20,8 @@ I'm a Master's student at **Ewha Womans University**, majoring in **Statistics**
 - 🤝 Looking to collaborate on open-source data science projects.
 
 ## 📫 How to reach me
-- Email: [your.email@example.com](mailto:suyk52@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Email: [suyk52@gmail.com](mailto:suyk52@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/suyeon-kim/)
 
 ---
 
