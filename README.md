@@ -17,7 +17,7 @@ I'm a Master's student at **Ewha Womans University**, majoring in **Statistics**
 
 ---
 
-## 🌐 **Languages I CanSpeak:**
+## 🌐 **Languages I Can Speak:**
 - Korean (한국어)
 - English
 - Japanese (日本語)
