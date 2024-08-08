@@ -11,9 +11,10 @@ I'm a Master's student at **Ewha Womans University**, majoring in **Statistics**
 ---
 
 ## 🔍 What I'm up to
-- 🌱 Currently studying advanced data science techniques.
-- 📝 Writing papers and working on projects in data analysis and machine learning.
-- 🤝 Looking to collaborate on open-source data science projects.
+- 🌱 Currently studying advanced data science techniques such as Graphical model.
+- 🌱 Currently studying MY SQL, Algorithm, Diffrential Privacy.
+- 📝 Working on projects in data analysis and machine learning.
+
 
 ## 📫 How to reach me
 - Email: [suyk52@gmail.com](mailto:suyk52@gmail.com)
