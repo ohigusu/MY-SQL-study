@@ -23,5 +23,9 @@
 - LinkedIn: [LinkedIn 프로필](https://www.linkedin.com/in/suyeon-kim-688360317/)
 - Notion : [Notion](https://www.notion.so/c12777c8a0734946adc58d9d0b217752)
 ---
-
 ⭐️ **재미있는 사실:** 복잡한 데이터 세트를 시각화하고, 이를 모두가 이해하기 쉽게 만드는 것을 즐깁니다!
+
+### 🚨 **중요한 공지:**
+기존의 GitHub 계정이 접속이 불가하여 **2024년 8월 8일**에 새로운 계정을 만들었습니다.
+
+
