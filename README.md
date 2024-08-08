@@ -10,13 +10,6 @@ I'm a Master's student at **Ewha Womans University**, majoring in **Statistics**
 
 ---
 
-## 🌐 **Languages I Can Speak:**
-- Korean (한국어)
-- English
-- Japanese (日本語)
-
----
-
 ## 🔍 What I'm up to
 - 🌱 Currently studying advanced data science techniques.
 - 📝 Writing papers and working on projects in data analysis and machine learning.
