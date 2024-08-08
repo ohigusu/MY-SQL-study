@@ -21,8 +21,8 @@ I'm a Master's student at **Ewha Womans University**, majoring in **Statistics**
 
 ## 📫 How to reach me
 - Email: [suyk52@gmail.com](mailto:suyk52@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/suyeon-kim/)
-
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/suyeon-kim-688360317/)
+- Notion : [Notion Site](https://www.notion.so/c12777c8a0734946adc58d9d0b217752)
 ---
 
 ⭐️ **Fun Fact:** I enjoy visualizing complex datasets and making them more understandable for everyone!
