@@ -23,4 +23,5 @@ I'm a Master's student at **Ewha Womans University**, majoring in **Statistics**
 ---
 
 ⭐️ **Fun Fact:** I enjoy visualizing complex datasets and making them more understandable for everyone!
+
 🚩 **Important Note:** my previous GitHub account became inaccessible, so I created a new account on **August 8, 2024**.
